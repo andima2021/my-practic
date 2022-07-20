@@ -1,0 +1,31 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  <meta charset="UTF-8";>
+  <title>laba3</title>
+  <style>
+a {text-decoration: none;}
+  </style>
+  
+ </head>
+ <body bgcolor=#CD853F vlink=#000000>
+ <font  size="8"><A HREF="ligament.html" TARGET="главная" align="CENTER"> Главная </A></font>
+ 
+ <font face="serif" size="7" color=#000000>
+ <div> <p align="center""> Lamborghini Aventador LP700 </p> <div>
+ <p align="center"> 10000р./час </p>
+<div> <p align="center"><img src="la.jpg" width="100%" height="100%" ></p> <div>
+ <div> <p align="center"> McLaren P1 </p> <div>
+ <p align="center"> 15000р./час </p>
+<div> <p align="center"><img src="mc.jpg" width="100%" height="100%" ></p> <div>
+<div> <p align="center"> ВАЗ-2101 "Копейка" </p> <div>
+ <p align="center"> 100./час </p>
+<div> <p align="center"><img src="va.jpg" width="100%" height="100%" ></p> <div>
+<div> <p align="center"> ВАЗ-2170 "Приора" </p> <div>
+ <p align="center"> 300./час </p>
+<div> <p align="center"><img src="da.jpg" width="100%" height="100%" ></p> <div>
+<div> <p align="center"> Tesla Model X </p> <div>
+ <p align="center"> 4000./час </p>
+<div> <p align="center"><img src="te.jpg" width="100%" height="100%" ></p> <div>
+ </body>
+</html>
