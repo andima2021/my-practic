@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  <meta charset="UTF-8";>
+  <title>laba3</title>
+  <style>
+  a {text-decoration: none;}
+ a {margin:150px;}
+body 
+{background: #000000 url(fe.jpg);
+background-size: 100%;}
+
+</style>
+ </head>
+ <body vlink=#B8860B>
+ <P align="CENTER" class="dline">
+ <font  size="8"><A HREF="page1.html" align="CENTER"> О компании </A></font>
+<font  size="8"><A HREF="page2.html" align="CENTER">  Прайс лист </A></font>
+<font  size="8"><A HREF="page3.html" align="CENTER">  Офис </A></font>
+<font  size="8"><A HREF="yandex.html" align="CENTER"> Поисковик </A></font> </p>
+ </body>
+</html>
