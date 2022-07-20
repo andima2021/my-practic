@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  <meta charset="UTF-8";>
+  <title>laba3</title>
+  <style>
+body 
+ {
+background: #000000 url(ho.jpg);
+background-size: 100%;
+  }
+  a {text-decoration: none;}
+</style>
+  
+ </head>
+ <body vlink=#32CD32>
+ <font  size="8"><A HREF="ligament.html" TARGET="главная" align="CENTER"> Главная </A></font>
+
+ <div><p align="CENTER"><font size="30"> <a href="https://yandex.ru/maps/org/miigaik/1082312243/?from=tabbar&ll=37.662391%2C55.764122&mode=search&sll=37.652368%2C55.748885&source=serp_navig&sspn=0.003755%2C0.001374&text=%D0%BC%D0%B8%D0%B8%D0%B3%D0%B0%D0%B8%D0%BA&z=15" target=»_blank»>  Автопрокат находится по этому адрессу </a></p> </div>
+ 
+ </body>
+</html>
