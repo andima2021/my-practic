@@ -1,0 +1,20 @@
+<!DOCTYPE html>
+<html>
+	<head>
+  <meta charset="UTF-8";>
+  <title>laba3</title>
+  <style type="text/css">
+	body 
+ {
+background: #000000 url(ch.jpg);
+background-size: 100%;}
+a {text-decoration: none;}
+  </style>
+  
+ </head>
+ <body vlink=#B8860B>
+ <font  size="8"> <A HREF="ligament.html" TARGET="главная" align="CENTER"> Главная </A> </font>
+ <font size="8" color=#390af5 <div> <p>  Компания <strong> Nice Auto </strong> была основана в 1999 в Москве. <br> Занимается автопрокатом. </br> Имеет огромный потребительский спрос в сфере данных услуг.</div> </font>
+ 
+ </body>
+</html>
